@@ -37,7 +37,7 @@ The purpose of this project is to utilize Cypress for thorough testing and valid
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
-- Testing: Cypress
+- Testing: Cypress, vitest
 
 ## Features
 - Randomized Questions
