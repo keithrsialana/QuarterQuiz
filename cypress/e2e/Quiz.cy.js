@@ -1,6 +1,6 @@
 describe("Quiz Website", () => {
 	beforeEach(() => {
-		cy.visit("http://localhost:3001/");
+		cy.visit("http://localhost:3002/");
 	});
 
 	it("makes sure that the quiz starts after lcicking start quiz", () => {
