@@ -1,5 +1,5 @@
 import { mount } from 'cypress/react';
-import Quiz from '../../client/src/components/Quiz.js';
+import Quiz from '../../client/src/components/Quiz';
 import React from 'react';
 
 describe("Tech Quiz", () => {
